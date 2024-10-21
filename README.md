@@ -1,2 +1,2 @@
 # PengolahanCitra
-Tugass
+Untuk Memenuhi tugas Pengolahan Citra Digital
